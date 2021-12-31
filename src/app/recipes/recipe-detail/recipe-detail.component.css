@@ -1,3 +1,7 @@
 .img-detail {
     max-height: 200px;
 }
+
+.cursor {
+    cursor: pointer;
+}
