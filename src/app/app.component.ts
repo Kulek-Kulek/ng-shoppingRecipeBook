@@ -6,8 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  navigateTo = 'recipe';
-  onNavigateTo(feature: string) {
-    this.navigateTo = feature;
-  }
+
 }
